@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Martin Wolf
           subtitle: "I am an Assistant Professor for Monetary Economics at the University of St Gallen, Switzerland. I am also a research affiliate with the CEPR, London. I am a macroeconomist with broad research interests in monetary economics, international economics and economic growth."
-          imageUrl: "picture.jpeg"
+          imageUrl: "Martin Wolf-505web.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -85,7 +85,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Martin Wolf"
       icon: favicon.ico
       iconHeight: 18
 
