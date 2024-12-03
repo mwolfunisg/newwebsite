@@ -27,8 +27,8 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am an Assistant Professor for Monetary Economics at the University of St Gallen, Switzerland. I am a macroeconomist with broad research interests in monetary economics, international economics and economic growth."
+    author: Martin Wolf
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,48 +52,32 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Martin Wolf
+          subtitle: "I am an Assistant Professor for Monetary Economics at the University of St Gallen, Switzerland. I am also a research affiliate with the CEPR, London. I am a macroeconomist with broad research interests in monetary economics, international economics and economic growth."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Personal
+              url: news/
+            - name: News
+              url: news/
+            - name: Research
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:martin.wolf@unisg.ch
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://scholar.google.com/citations?user=QPqTfikAAAAJ&hl=de
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/mw_econ
 
     assets:
         disableScrollBarStyle: true
